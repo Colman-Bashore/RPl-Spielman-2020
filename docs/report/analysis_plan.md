@@ -4,6 +4,7 @@
 
 - Liam Smith\*, lwsmith@middlebury.edu, @Liam-W-Smith, ORCID link, Middlebury College
 - Joseph Holler, josephh@middlebury.edu , @josephholler, ORCID link, Middlebury College
+- Colman Bashore, cbashore@middlebury.edu, @colman-bashore, Middlebury College
 
 \* Corresponding author and creator
 
@@ -83,6 +84,7 @@ In our replication, we begin with the same hypotheses as Spielman et al, but we 
 To address this hypothesis, we will calculate SoVI scores for the entire nation (excluding Puerto Rico) using three temporal extents: 1-year ACS data, 3-year ACS data, and 5-year ACS data.
 We will do this for every year that such data is available, which happens to be the years 2009 through 2013.
 We will then rank the counties in each model according to their SoVI scores and test RPr-H1 by calculating Spearman's rank correlation coefficients between the 1-year and 3-year models and between the 1-year and 5-year models for each year.
+We will also calculate the variance explained by each factor in the models.
 
 > RPr-H2: SoVI is theoretically inconsistent.
 
